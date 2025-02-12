@@ -2,6 +2,11 @@
 
 baseURL: https://education-jeunesse.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 5f975331-4d57-44c0-89c6-9a57d54fd0a0
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
