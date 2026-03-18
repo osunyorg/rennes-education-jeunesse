@@ -5,7 +5,8 @@ title: >-
 level: info
 
 button:
-
+  title: >-
+    Le détail des perturbations
   url: >-
     https://ici.rennes.fr/actualites/2026-03-17-preavis-de-greve-dans-les-ecoles-a-rennes-le-19-mars/
   target_blank: true
